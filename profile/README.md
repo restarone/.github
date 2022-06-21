@@ -6,6 +6,17 @@
 
 At Restarone Solutions, we help startups build software products by [supporting the entire software development lifecycle](https://www.restarone.com/services). 
 
+## [Our services](https://www.restarone.com/services)
+
+-   Product Design
+-   Mobile App Development
+-   Full-Stack Web Development 
+-   Dev-ops and Cloud Solutions
+
+We have a [team](https://www.restarone.com/about) of capable, multi-talented contributors who are passionate about software development and design, delivering nothing but the best. We believe that everyone should play to their strengths. Our diverse team does just that across many disciplines, ranging from software engineering, design, marketing, project management and the arts.
+
+Software development is a complex process involving product development, design and engineering. We greatly reduce this complexity by centralizing the talent and process needed to bring a product from kick-off to completion.
+
 ## Our 4-step process:
 
 1.  Discovery, Scope & Strategy
@@ -19,16 +30,6 @@ We serve a vibrant client-base ranging from late stage startups like [Copper](ht
 
 [Our expertise](https://www.restarone.com/about) is deep, diverse and above all, rare. We are [open-source evangelists](https://github.com/restarone/) and a published software vendor for [Apple](https://apps.apple.com/ca/app/lenny-mobi/id1528051136), [Google](https://play.google.com/store/apps/developer?id=Restarone+Solutions+Inc.&hl=en_CA&gl=US), [Amazon](https://www.credly.com/badges/517d04da-3c81-4839-95de-495a8de262c3?source=linked_in_profile) and the greater internet. We deliver scalable, production-grade software that is the result of industry best practices such as test-driven development and the [12 factor methodology](https://12factor.net).
 
-## [Our services](https://www.restarone.com/services)
-
--   Product Design
--   Mobile App Development
--   Full-Stack Web Development 
--   Dev-ops and Cloud Solutions
-
-We have a [team](https://www.restarone.com/about) of capable, multi-talented contributors who are passionate about software development and design, delivering nothing but the best. We believe that everyone should play to their strengths. Our diverse team does just that across many disciplines, ranging from software engineering, design, marketing, project management and the arts.
-
-Software development is a complex process involving product development, design and engineering. We greatly reduce this complexity by centralizing the talent and process needed to bring a product from kick-off to completion.
 
 ## Work With Us
 
